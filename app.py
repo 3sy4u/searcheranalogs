@@ -16,7 +16,7 @@ from PyQt6.QtWidgets import (
 from google.oauth2.service_account import Credentials
 
 # ==================== КОНФИГУРАЦИЯ ОБНОВЛЕНИЯ ====================
-CURRENT_VERSION = "1.0.0"  # 🔹 Меняйте это число перед сборкой новой версии!
+CURRENT_VERSION = "1.0.1"  # 🔹 Меняйте это число перед сборкой новой версии!
 UPDATE_CHECK_URL = "https://raw.githubusercontent.com/3sy4u/searcheranalogs/refs/heads/main/version.json"
 # Или прямая ссылка на файл на вашем хостинге
 
