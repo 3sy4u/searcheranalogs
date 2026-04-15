@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "download_url": "https://github.com/3sy4u/searcheranalogs",
+    "version": "1.0.0",
+    "download_url": "https://api.github.com/repos/3sy4u/searcheranalogs/releases/latest",
     "changelog": "- Крупное обновление"
 }
